@@ -1,0 +1,88 @@
+.App h1 {
+  text-align: center;
+}
+#wrapper {
+  background-color: lightgrey;
+}
+#top {
+  font-size: 28px;
+  vertical-align: top;
+  display: inline-block;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+#top h1 {
+  padding-top: 10px;
+}
+a {
+  display: inline-block;
+  margin-left: 10px;
+}
+.here {
+  color: rgb(73, 155, 52);
+}
+#main {
+  padding-bottom: 50px;
+}
+#main h1 { 
+  margin-bottom: 30px;
+}
+#info {
+  display: inline-block;
+  margin-left: 40px;
+  font-size: 22px;
+  width: 550px;
+}
+img {
+  display: inline-block;
+  width: 500px;
+  vertical-align: top;
+}
+#sanjose {
+  padding: 15px;
+  margin: 35px 100px;
+  border-radius: 10px;
+  padding-bottom: 50px;
+  background-color: lightblue;
+}
+#seattle {
+  padding: 15px;
+  margin: 35px 100px;
+  border-radius: 10px;
+  padding-bottom: 50px;
+  color: white;
+  background-color: rgb(97, 97, 255);
+}
+#burbank {
+  padding: 15px;
+  margin: 35px 100px;
+  border-radius: 10px;
+  padding-bottom: 50px;
+  background-color: rgb(121, 211, 121);
+}
+#dallas {
+  padding: 15px;
+  margin: 35px 100px;
+  border-radius: 10px;
+  padding-bottom: 50px;
+  background-color: rgb(191, 211, 121);
+}
+#dc {
+  padding: 15px;
+  margin: 35px 100px;
+  border-radius: 10px;
+  padding-bottom: 50px;
+  background-color: rgb(219, 154, 224);
+}
+#chicago {
+  padding: 15px;
+  margin: 35px 100px;
+  border-radius: 10px;
+  padding-bottom: 50px;
+  color: white;
+  background-color: rgb(80, 24, 185);
+}
+#loading {
+  padding-top: 50px;
+  height: 460px;
+}
